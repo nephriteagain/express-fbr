@@ -1,0 +1,1 @@
+export const things = [1,2,3]
